@@ -46,8 +46,8 @@
     },
     {
       "component": "header",
-      "heading": "compositorTest",
-      "subhead": "test 123",
+      "heading": "compositor",
+      "subhead": "testing simple design systems",
       "children": [
         {
           "component": "ui/TweetButton",
@@ -58,6 +58,18 @@
           "component": "ui/GithubButton",
           "user": "meodai",
           "repo": "compositorTest"
+        }
+      ],
+      "slug": "",
+      "text": "perfect for project documentations",
+      "links": [
+        {
+          "href": "http://jaja.ch",
+          "text": "some test link"
+        },
+        {
+          "href": "http://www.elastiq.ch",
+          "text": "Elastiq"
         }
       ]
     },
